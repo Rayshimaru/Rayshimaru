@@ -1,10 +1,10 @@
 ## Bem-vindo(a) ao perfil do Dev em Dobro 😁
 
  <div>
-  <a href="https://github.com/Rayshumaru">
-   <a href="https://github.com/Rayshumaru">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rayshumaru&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayshumaru&layout=compact&langs_count=6&theme=tokyonight"/>
+  <a href="https://github.com/Rayshimaru">
+   <a href="https://github.com/Rayshimaru">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rayshimaru&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayshimaru&layout=compact&langs_count=6&theme=tokyonight"/>
   </a>
 
 </div>
